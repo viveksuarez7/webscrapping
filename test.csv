@@ -1,0 +1,11 @@
+Federal Holiday,Holiday Date,Actual Business Day,DME Marker Price,DME Settlement Price
+Martin Luther King Day,"Monday, 17th January, 2022","Tuesday, 18th January, 2022",Yes,No
+Presidents' Day,"Monday, 21st February, 2022","Tuesday, 22nd February, 2022",Yes,No
+Good Friday,"Friday, 15th April, 2022",Closed,No,No
+Memorial Day,"Monday, 30th May, 2022","Tuesday, 31st May, 2022",Yes,No
+Juneteenth,"Monday, 20th June, 2022","Tuesday, 21st June 2022",Yes,No
+Independence Day,"Monday, 4th July, 2022","Tuesday, 5th July, 2022",Yes,No
+Labor Day,"Monday, 5th September, 2022","Tuesday, 6th September, 2022",Yes,No
+Thanksgiving Day,"Thursday, 24th November, 2022","Friday, 25th November, 2022",Yes,No
+Christmas Day,"Monday, 26th December, 2022",Closed,No,No
+New Year Day 2023,"Monday, 2nd January, 2023",Closed,No,No

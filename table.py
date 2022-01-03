@@ -24,6 +24,7 @@ for tr in soup.find_all('tr'):
 
     for th in tr.find_all('th'):
         data.append(th.text.strip())
+    
 
     if(data):
         print('Headers : {}'.format(','.join(data)))
